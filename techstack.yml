@@ -1,0 +1,113 @@
+repo_name: martin-creator/TypeScript-Getting-Started
+report_id: 023ab7c91331ddd389343a3b46f93575
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:52:25+00:00'
+requested_by: bricewilson
+provider: github
+branch: main
+detected_tools_count: 8
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 4.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Brice Wilson
+  last_updated_on: 2021-02-24 22:46:57.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started
+  detection_source: Repo Metadata
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Brice Wilson
+  last_updated_on: 2021-02-16 21:06:18.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Brice Wilson
+  last_updated_on: 2021-02-16 17:40:08.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.0.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Brice Wilson
+  last_updated_on: 2021-02-16 21:06:18.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Brice Wilson
+  last_updated_on: 2021-02-16 21:06:18.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/martin-creator/TypeScript-Getting-Started/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Brice Wilson
+  last_updated_on: 2021-02-16 21:06:18.000000000 Z
